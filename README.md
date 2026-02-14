@@ -1,4 +1,4 @@
-# ⚡ Socket Project - High Performance File Transfer System
+# ⚡ Socket Project - File Transfer System
 
 <div align="center">
 
