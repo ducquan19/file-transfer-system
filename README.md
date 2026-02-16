@@ -78,8 +78,8 @@ sequenceDiagram
 
 1.  **Clone the repository**
     ```bash
-    git clone https://github.com/yourusername/socket-project.git
-    cd socket-project/Source
+    git clone https://github.com/ducquan19/file-transfer-system.git
+    cd file-transfer-system
     ```
 
 2.  **Verify Prerequisites**
